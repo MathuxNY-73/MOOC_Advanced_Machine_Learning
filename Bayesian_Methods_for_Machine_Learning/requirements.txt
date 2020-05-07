@@ -2,3 +2,6 @@ jupyter
 numpy
 sklearn
 matplotlib
+pymc3[plots]
+pandas
+seaborn
