@@ -5,3 +5,5 @@ matplotlib
 pymc3[plots]
 pandas
 seaborn
+tensorflow==1.15
+keras
