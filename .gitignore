@@ -132,3 +132,7 @@ dmypy.json
 .venv
 
 .DS_store
+*.hdf5
+*.h5
+*.gz
+*.tar
