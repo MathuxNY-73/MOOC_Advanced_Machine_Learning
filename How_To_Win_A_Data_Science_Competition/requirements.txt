@@ -3,4 +3,9 @@ numpy
 matplotlib
 jupyter
 sklearn
+scipy
 requests
+joblib
+catboost
+lightgbm
+tqdm
