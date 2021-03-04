@@ -4,3 +4,9 @@ matplotlib
 jupyter
 sklearn
 gym
+tensorflow
+torch
+torchvision
+pyglet
+psutil
+gym[atari]
