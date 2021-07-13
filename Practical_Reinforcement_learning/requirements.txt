@@ -2,6 +2,7 @@ pandas
 numpy
 matplotlib
 jupyter
+jupyterlab
 sklearn
 gym
 tensorflow
