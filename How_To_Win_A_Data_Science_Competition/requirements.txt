@@ -1,7 +1,9 @@
 pandas
 numpy
 matplotlib
+notebook
 jupyter
+jupyterlab
 sklearn
 scipy
 requests
