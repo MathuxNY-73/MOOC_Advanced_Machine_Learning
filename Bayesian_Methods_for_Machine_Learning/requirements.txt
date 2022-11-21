@@ -5,7 +5,7 @@ matplotlib
 pymc3[plots]
 pandas
 seaborn
-tensorflow==2.4.0
+tensorflow==2.9.3
 keras
 GPy
 gpyopt
